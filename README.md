@@ -4,7 +4,7 @@ I'm a Computer Technology graduand at the Technical University of Kenya, buildin
 
 I learn best by doing: exploring how systems work, investigating their weaknesses, and understanding how they can be secured. Through industry attachment, technical training and hands-on labs, I've gained exposure to security assessments, network reconnaissance, security monitoring, phishing simulations and web application security.
 
-My longer-term goal is to grow into **Security Engineering**, building on my offensive security interests, defensive security knowledge and existing DevOps foundations.
+My longer-term interest is to grow into **Security Engineering**, building on my offensive security interests, defensive security knowledge and existing DevOps foundations.
 
 ## 🔐 Interests
 
